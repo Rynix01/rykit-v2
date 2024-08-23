@@ -3,6 +3,7 @@
 **RyKit-v2** is a multi-purpose JavaScript utility module designed to simplify common programming tasks. It includes a variety of functions for string manipulation, array processing, mathematical operations, and more.
 
 [![Socket Badge](https://socket.dev/api/badge/npm/package/rykit-v2/undefined)](https://socket.dev/npm/package/rykit-v2/overview/1.0.1
+]
 
 ## Features
 
